@@ -1,5 +1,6 @@
 {
-  "name": "shoppingcart",
+  "homepage": "https://awais-shams.github.io/e-plant-shopping/",
+  "name": "e-plant-shopping",
   "private": true,
   "version": "0.0.0",
   "type": "module",
